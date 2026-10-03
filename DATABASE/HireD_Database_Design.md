@@ -1393,3 +1393,4 @@ The most important principles of this database design are:
 ## 20. Source
 
 This database design is derived from the HireD Phase 1 MVP Product Requirements Document, Version 0.2, dated 30 Sep 2026. The PRD defines the product vision, users, scope, end-to-end order/trip/payout/invoice flow, functional requirements, payroll rules, high-level data model, audit requirements, and open questions. 
+
